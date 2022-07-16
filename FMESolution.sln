@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CA8AB722-420B-450F-8729-0B983D3F8CD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FME", "FME", "{C47A1CB9-8F23-436D-A8EE-F212F3E1E742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FME.API", "FME.API\FME.API.csproj", "{20E4AA95-A6BB-4DBF-9D3D-FC26E2990D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E4AA95-A6BB-4DBF-9D3D-FC26E2990D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E4AA95-A6BB-4DBF-9D3D-FC26E2990D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E4AA95-A6BB-4DBF-9D3D-FC26E2990D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E4AA95-A6BB-4DBF-9D3D-FC26E2990D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C47A1CB9-8F23-436D-A8EE-F212F3E1E742} = {CA8AB722-420B-450F-8729-0B983D3F8CD5}
+		{20E4AA95-A6BB-4DBF-9D3D-FC26E2990D2D} = {C47A1CB9-8F23-436D-A8EE-F212F3E1E742}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21ADA473-0EA1-4515-8944-B5D4CA935562}
+	EndGlobalSection
+EndGlobal
