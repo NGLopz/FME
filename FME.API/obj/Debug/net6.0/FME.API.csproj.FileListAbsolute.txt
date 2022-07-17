@@ -25,3 +25,7 @@ C:\Users\Engel-PC\source\repos\FMESolution\FME.API\obj\Debug\net6.0\refint\FME.A
 C:\Users\Engel-PC\source\repos\FMESolution\FME.API\obj\Debug\net6.0\FME.API.pdb
 C:\Users\Engel-PC\source\repos\FMESolution\FME.API\obj\Debug\net6.0\FME.API.genruntimeconfig.cache
 C:\Users\Engel-PC\source\repos\FMESolution\FME.API\obj\Debug\net6.0\ref\FME.API.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.API\bin\Debug\net6.0\FME.Domain.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.API\bin\Debug\net6.0\FME.Domain.pdb

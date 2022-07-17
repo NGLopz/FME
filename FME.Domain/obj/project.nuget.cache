@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pNW7rSxC6jd372IvHreTHixVnR6nebpJsmjBEAk3r9B9O747SyODGnm6LdYHDXzf72lfZi2t45/QC8ag0RiV3w==",
+  "dgSpecHash": "aAuWVpHfxEjOWL3bY7yZXHjyHb6jC6nLkwjYj3KHWg95Te8WeiO7O4jYnCGDGjUDGerBiyXMTjTSfOfRKNGnNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Engel-PC\\source\\repos\\FMESolution\\FME.Domain\\FME.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Engel-PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

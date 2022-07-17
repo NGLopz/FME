@@ -1,0 +1,12 @@
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\bin\Debug\net6.0\FME.Domain.deps.json
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\bin\Debug\net6.0\FME.Domain.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\bin\Debug\net6.0\FME.Domain.pdb
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\FME.Domain.csproj.AssemblyReference.cache
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\FME.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\FME.Domain.AssemblyInfoInputs.cache
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\FME.Domain.AssemblyInfo.cs
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\FME.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\FME.Domain.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\refint\FME.Domain.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\FME.Domain.pdb
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Domain\obj\Debug\net6.0\ref\FME.Domain.dll

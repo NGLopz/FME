@@ -1,0 +1,15 @@
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\bin\Debug\net6.0\FME.Repository.deps.json
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\bin\Debug\net6.0\FME.Repository.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\bin\Debug\net6.0\FME.Repository.pdb
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\bin\Debug\net6.0\FME.Domain.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\bin\Debug\net6.0\FME.Domain.pdb
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.csproj.AssemblyReference.cache
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.AssemblyInfoInputs.cache
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.AssemblyInfo.cs
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.csproj.CopyComplete
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\refint\FME.Repository.dll
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\FME.Repository.pdb
+C:\Users\Engel-PC\source\repos\FMESolution\FME.Repository\obj\Debug\net6.0\ref\FME.Repository.dll
